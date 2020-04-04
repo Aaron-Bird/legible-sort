@@ -1,0 +1,27 @@
+{
+  "name": "legible-sort",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  },
+  "keywords": [
+    "sort",
+    "order",
+    "string",
+    "natural",
+    "human",
+    "alphanum"
+  ],
+  "author": "Aaron Bird",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Aaron-Bird/legible-sort.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aaron-Bird/legible-sort/issues"
+  },
+  "homepage": "https://github.com/Aaron-Bird/legible-sort#readme",
+  "license": "MIT"
+}
